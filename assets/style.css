@@ -1,0 +1,21 @@
+header,
+h1,
+h2,
+h3 {
+ text-align: center;
+}
+
+
+
+.title {
+    color: hotpink;
+    font-size: 80px;
+    background-color: blue;
+}
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 2px solid rgb(248, 6, 6);
+    box-shadow: 5px 10px #5a0a0a; 
+   }
